@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hey, I'm Shriya 👋
+
+🎓 Finance & Fintech Enthusiast  
+📊 Exploring Data Analysis, Tally, and Python Projects  
+💻 Check out my latest projects below ⬇
 
 <!--
 **shetty30/shetty30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
