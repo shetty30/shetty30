@@ -1,7 +1,7 @@
 # Hey, I'm Shriya 👋
 
 🎓 Finance & Fintech Enthusiast  
-📊 Exploring Data Analysis, Tally, and Python Projects  
+📊 Exploring Financial Analysis, Tally, Designing and Python Projects  
 💻 Check out my latest projects below ⬇
 
 <!--
