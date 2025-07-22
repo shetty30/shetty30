@@ -13,20 +13,4 @@
 - 🤖 Financial Automation & Apps
 - 🤝 Open to collaborations and networking
 
----
 
-**Pinned Projects**
-
-| Project                              | Description                           | Tech Stack       |
-|---------------------------------------|---------------------------------------|------------------|
-| budget-battle-simulator-game          | Budget planning simulation game       | TypeScript       |
-| financial-assistant                   | Finance assistant in Jupyter          | Jupyter Notebook |
-| loan-eligibility-app                  | Loan eligibility ML tool              | Python           |
-| spend-smart                           | Smart spend tracking                  | TypeScript       |
-| save-bae-app                          | Personal savings app                  | Python           |
-| tirumala_shop                         | E-commerce shop prototype             | JavaScript       |
-
----
-
-**Let's Connect**
-- 📫 [www.linkedin.com/in/shriya-shetty]
