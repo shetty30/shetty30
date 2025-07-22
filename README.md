@@ -1,20 +1,32 @@
 # Hey, I'm Shriya 👋
 
-🎓 Finance & Fintech Enthusiast  
-📊 Exploring Financial Analysis, Tally, Designing and Python Projects  
-💻 Check out my latest projects below ⬇
+💹 Finance & Fintech Enthusiast | 💻 Python and Data Analysis
 
-<!--
-**shetty30/shetty30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**About Me**
+- Interests: Financial Analysis, Designing tools and many more
+- Passionate about building and learning in the fintech space
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current Focus**
+- 📊 Financial Data Analysis & Visualization
+- 🤖 Financial Automation & Apps
+- 🤝 Open to collaborations and networking
+
+---
+
+**Pinned Projects**
+
+| Project                              | Description                           | Tech Stack       |
+|---------------------------------------|---------------------------------------|------------------|
+| budget-battle-simulator-game          | Budget planning simulation game       | TypeScript       |
+| financial-assistant                   | Finance assistant in Jupyter          | Jupyter Notebook |
+| loan-eligibility-app                  | Loan eligibility ML tool              | Python           |
+| spend-smart                           | Smart spend tracking                  | TypeScript       |
+| save-bae-app                          | Personal savings app                  | Python           |
+| tirumala_shop                         | E-commerce shop prototype             | JavaScript       |
+
+---
+
+**Let's Connect**
+- 📫 [www.linkedin.com/in/shriya-shetty]
