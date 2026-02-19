@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Shriya  
 
-### 💹 Finance | 🧠 Fintech | 📊 Data Analytics  
+### 💹 Finance | 🧠 Fintech | 📊 Risk Analytics  
 
 🚀 *Turning financial data into insights & automation — one Python script at a time.*  
 
