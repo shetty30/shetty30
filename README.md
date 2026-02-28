@@ -68,7 +68,12 @@ I believe the best way to learn finance is to **build systems that analyze it.**
 # Connect With Me
 
 [LinkedIn](www.linkedin.com/in/shriya-shetty-b7809a303) 
+
+
 [My GitHub](https://github.com/shetty30)
-Instagram (chiaa.log – finance learning journey)
+
+
+[Instagram](https://www.instagram.com/chiaa.log/)
+ (chiaa.log – finance learning journey)
 
 I document my journey learning **finance, technology, and risk analytics.**
